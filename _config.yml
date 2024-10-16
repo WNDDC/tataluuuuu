@@ -52,7 +52,8 @@ topics:
     web_url: https://thealgorithms.github.io/Python/
     image_url: https://avatars.githubusercontent.com/u/20487725?s=48&v=4
   - name: Blender
-
-  - name: Sass
+    web_url: https://www.blender.org/features/
+    image_url: https://2821714.s21i.faiusr.com/4/2/ABUIABAEGAAgx9a_mgYox9ztuwQw2AQ42AQ.png
+  - name: sass
     web_url: https://github.com/topics/sass
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
